@@ -1,32 +1,34 @@
 # Hora e Estilo
 
-> Guias, comparativos e reviews de relógios e acessórios, a partir dos dados públicos dos anúncios do Mercado Livre, com preço e data de leitura.
+> Guias, comparativos e reviews de relógios e acessórios, a partir dos dados públicos dos anúncios (Mercado Livre e Shopee), com preço e data de leitura.
 
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [5 joias e bijuterias até R$ 30: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/joias-e-bijuterias-ate-30/)
-- [5 joias, piercings e cuidados até R$ 40: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/joias-piercings-e-cuidados-ate-40/)
-- [4 relógios até R$ 120: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/relogios-ate-120/)
-- [5 relógios de parede, mesa e bolso até R$ 50: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/relogios-de-parede-mesa-e-bolso-ate-50/)
-- [4 smartwatches até R$ 350: comparativo com preços de 21/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/smartwatches-ate-350/)
+- [5 joias e bijuterias até R$ 30: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/joias-e-bijuterias-ate-30/)
+- [5 joias, piercings e cuidados até R$ 40: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/joias-piercings-e-cuidados-ate-40/)
+- [5 relógios até R$ 100: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/relogios-ate-100/)
+- [5 relógios de parede, mesa e bolso até R$ 50: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/relogios-de-parede-mesa-e-bolso-ate-50/)
+- [4 smartwatches até R$ 350: comparativo com preços de 23/10](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/smartwatches-ate-350/)
 
 ## Guias
-- [Como escolher joias e bijuterias: o que olhar na ficha antes de gastar (de R$ 17,84 a R$ 52,90)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-joias-e-bijuterias/)
+- [Como escolher joia: o que olhar na ficha antes de gastar (de R$ 17,84 a R$ 52,90)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-joia/)
 - [Como escolher item de joalheria: o que olhar na ficha antes de gastar (de R$ 19 a R$ 78,99)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-item-de-joalheria/)
-- [Como escolher produto: o que olhar na ficha antes de gastar (de R$ 23,95 a R$ 152,10)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-produto/)
+- [Como escolher produto: o que olhar na ficha antes de gastar (de R$ 23,66 a R$ 133,24)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-produto/)
 - [Como escolher item para relógios: o que olhar na ficha antes de gastar (de R$ 25,49 a R$ 76)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-item-para-relogios/)
-- [Como escolher smartwatch: o que olhar na ficha antes de gastar (de R$ 208,55 a R$ 1.749)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-smartwatch/)
+- [Como escolher smartwatch: o que olhar na ficha antes de gastar (de R$ 199 a R$ 1.749)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-smartwatch/)
 
 ## Reviews
 - [Anel Masculino Aço Inox Corrente Spinner Antiestresse: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/anel-masculino-aco-inox-corrente-spinner-antiestresse-00ccf1/)
 - [Brinco Zircônia Prata 925 Pequeno Ponto De Luz: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/brinco-zirconia-prata-925-pequeno-ponto-de-luz-dec63f/)
 - [Colar Feminino Prata 925 Ponto De Luz Coração: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/colar-feminino-prata-925-ponto-de-luz-coracao-febbdb/)
+- [Colar Letra Inicial com Pérolas Banhado a Ouro: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/colar-letra-inicial-com-perolas-banhado-a-ouro-a23e0e/)
 - [Corrente Cordão Prata 925 Masculina Legítima Pingente Cruz: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/corrente-cordao-prata-925-masculina-legitima-pingente-cruz-71c46c/)
 - [Par Aliança Namoro Prata 4mm Compromisso Anatômica +: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/par-alianca-namoro-prata-4mm-compromisso-anatomica-27229d/)
 - [Par Alianças Compromisso Namoro Prata 4mm + Caixinha em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/par-aliancas-compromisso-namoro-prata-4mm-caixinha-7861fd/)
 - [Pulseira Oceano Para Apple Watch Ultra 49mm 45mm: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/pulseira-oceano-para-apple-watch-ultra-49mm-45mm-df1317/)
 - [Pulseira de Silicone Importados Ltda Apple Watch 42mm: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/pulseira-de-silicone-importados-ltda-apple-watch-42mm-ae35d2/)
+- [Trio de Argolas Prata 925 Lisa Cravejada Ponto: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/trio-de-argolas-prata-925-lisa-cravejada-ponto-f91964/)
 - [Animo Shop piercing titânio umbigo: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/animo-shop-piercing-titanio-umbigo-91076f/)
 - [Kit 3 Piercing Titânio Ponto De Luz Zircônia: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/kit-3-piercing-titanio-ponto-de-luz-zirconia-ecad7b/)
 - [Kit 3 Piercing Titânio Ponto De Luz Zircônia: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/kit-3-piercing-titanio-ponto-de-luz-zirconia-32d91d/)
@@ -35,6 +37,7 @@ Contém links de afiliado Mercado Livre.
 - [Porta Joias Cadencia Transparente Acrilico 5 Camadas 120: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/porta-joias-cadencia-transparente-acrilico-5-camadas-120-ef87b1/)
 - [Porta Joias Veludo Com Acrílico 3 Camadas Gavetas: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/porta-joias-veludo-com-acrilico-3-camadas-gavetas-4ce663/)
 - [Porta Jóias Portátil Viagem Estojo Maleta Caixa Couro: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/porta-joias-portatil-viagem-estojo-maleta-caixa-couro-fc9bde/)
+- [2026 Nova Série 8 Relógio T800 Ultra Smart em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/2026-nova-serie-8-relogio-t800-ultra-smart-931c1c/)
 - [Relógio Casio Masculino Digital Preto de Resina W-59-1VQ: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/relogio-casio-masculino-digital-preto-de-resina-w-59-1vq-4191b7/)
 - [Relógio Casio Unissex Vintage Prata Aq-230a-1dmq: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/relogio-casio-unissex-vintage-prata-aq-230a-1dmq-fec85c/)
 - [Relógio Chroma Masculino Preto Saint Germain Clássico Caixa em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/relogio-chroma-masculino-preto-saint-germain-classico-caixa-db6e93/)
