@@ -5,14 +5,14 @@
 Contém links de afiliado Mercado Livre.
 
 ## Comparativos
-- [4 joias, piercings e cuidados até R$ 40: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/joias-piercings-e-cuidados-ate-40/)
-- [3 relógios até R$ 30: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/relogios-ate-30/)
-- [3 smartwatches até R$ 538: comparativo com preços de 18/11](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/smartwatches-ate-538/)
+- [4 joias, piercings e cuidados até R$ 40: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/joias-piercings-e-cuidados-ate-40/)
+- [3 relógios até R$ 30: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/relogios-ate-30/)
+- [3 smartwatches até R$ 300: comparativo com preços de 20/11](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/top/smartwatches-ate-300/)
 
 ## Guias
-- [Como escolher item de joalheria: o que olhar na ficha antes de gastar (de R$ 19 a R$ 78,60)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-item-de-joalheria/)
+- [Como escolher item de joalheria: o que olhar na ficha antes de gastar (de R$ 19 a R$ 78,49)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-item-de-joalheria/)
 - [Como escolher produto: o que olhar na ficha antes de gastar (de R$ 20,50 a R$ 131)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-produto/)
-- [Como escolher smartwatch: o que olhar na ficha antes de gastar (de R$ 204,81 a R$ 537)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-smartwatch/)
+- [Como escolher smartwatch: o que olhar na ficha antes de gastar (de R$ 189 a R$ 537)](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/guia/como-escolher-smartwatch/)
 
 ## Reviews
 - [Pulseira Oceano Para Apple Watch Ultra 49mm 45mm: vale a pena? O que o anúncio mostra](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/pulseira-oceano-para-apple-watch-ultra-49mm-45mm-df1317/)
@@ -30,6 +30,8 @@ Contém links de afiliado Mercado Livre.
 - [PEST. COURVIN P/ RELOGIO 12 LUGARES - PRETO/CINZA em detalhe: pontos fortes, cuidados e preço](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/pest-courvin-p-relogio-12-lugares-preto-cinza-9df2c2/)
 - [Smartwatch Amazfit Bip 6 Global com GPS, Alexa: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/smartwatch-amazfit-bip-6-global-com-gps-alexa-f5bc77/)
 - [Smartwatch HUAWEI Band 10 Caixa de Polímeros Duráveis: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/smartwatch-huawei-band-10-caixa-de-polimeros-duraveis-791e04/)
+- [Smartwatch Haylou Solar Ultra LS23 Solar Ultra 1.6: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/smartwatch-haylou-solar-ultra-ls23-solar-ultra-1-6-aae24f/)
+- [Smartwatch Samsung Galaxy Fit3 Display 1.6" Rosé: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/smartwatch-samsung-galaxy-fit3-display-1-6-rose-9c728a/)
 - [Smartwatch Xiaomi Smart band 10 1.72 " 44.6: ficha, preço e para quem serve](https://marcusviniciusps08-hue.github.io/blog-tempo-e-brilho/review/smartwatch-xiaomi-smart-band-10-1-72-44-6-7888ea/)
 
 ## Sobre
